@@ -1,3 +1,11 @@
+## Table of Contents
+
+- [VDS Squadron Mini Board Libraries for Arduino IDE](#VDSSquadronMiniBoardLibrariesforArduinoIDE)
+- [Features](#features)
+- [Installation of vsd Board](#InstallationofvsdBoard)
+- [Installation of Libraries](#InstallationofLibraries)
+- [Contributing](#Contributing) 
+
 ## VDS Squadron Mini Board Libraries for Arduino IDE
 This repository contains libraries for simplifying the usage of I2C LCDs and servo motors with the VDS Squadron mini board. 
 These libraries aim to reduce the amount of code needed to control these components, making it easier to integrate them into your projects.
