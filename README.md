@@ -2,8 +2,8 @@
 
 - [VDS Squadron Mini Board Libraries for Arduino IDE](#VDSSquadronMiniBoardLibrariesforArduinoIDE)
 - [Features](#features)
-- [Installation of vsd Board](#InstallationofvsdBoard)
-- [Installation of Libraries](#InstallationofLibraries)
+- [Installation of vsd Board](#Installation-of-vsd-Board)
+- [Installation of Libraries](#Installation-of-Libraries)
 - [Contributing](#Contributing) 
 
 ## VDS Squadron Mini Board Libraries for Arduino IDE
